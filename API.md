@@ -699,7 +699,7 @@ See also [GetContainer](#GetContainer).
 
 method ListImages() [Image](#Image)</div>
 ListImages returns information about the images that are currently in storage.
-See also [InspectImage](InspectImage).
+See also [InspectImage](#InspectImage).
 ### <a name="ListPods"></a>func ListPods
 <div style="background-color: #E8E8E8; padding: 15px; margin: 10px; border-radius: 10px;">
 
